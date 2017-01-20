@@ -10,8 +10,9 @@
 - Profit
 
 Должно получиться примерно следующее:
+
 ![success coping](https://github.com/kriku/scheduleShifter/raw/master/lookslike.png)
 
+_Для версии Elective courses Spring 2017_
 
-Для версии Elective courses Spring 2017
-(хардкод индексов для копирования области недели)
+_(хардкод индексов для копирования области недели)_
